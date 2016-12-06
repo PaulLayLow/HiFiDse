@@ -1,0 +1,9 @@
+alexg DIR 1
+alexg\courses DIR 2
+alexg\courses\cs345 DIR 3
+alexg\courses\cs345\handouts DIR 4
+alexg\courses\cs345\handouts\syllabus.pdf TXTN 5
+alexg\courses\cs345\handouts.html TXTS 6
+alexg\courses\cs345\index.html TXTS 7
+alexg\courses\cs345\my.java TXTS 8
+alexg\courses\cs345\my.txt TXTS 9

@@ -1,0 +1,5 @@
+Hello this is a text doc
+Every white space including tabs and new line will be ommited
+This is a date, 12/16/16 but this is considered as different numbers, (1 + 2).
+And here is just an example of stopwords
+here just example stopwords

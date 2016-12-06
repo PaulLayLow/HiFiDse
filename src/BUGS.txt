@@ -1,0 +1,8 @@
+** Step 0 **
+Java file must be in the same directory as the files searching for
+
+** Step 1 ** 
+The file/directory searcher is a depth-first search rather than breadth-first
+
+** Step 2 ** 
+you must specify the path of the input file
