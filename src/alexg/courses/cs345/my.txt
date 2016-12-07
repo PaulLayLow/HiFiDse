@@ -3,3 +3,5 @@ Every white space including tabs and new line will be ommited
 This is a date, 12/16/16 but this is considered as different numbers, (1 + 2).
 And here is just an example of stopwords
 here just example stopwords
+START stopwords i a about an are as at be by com en for from how in is it of on or that the this to was what when where who will with www END
+START stemming tries (try) freebies honeies romaies tastes (taste) sees does raes algorithms (algorithm) bus hiss 
