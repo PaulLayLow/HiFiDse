@@ -160,9 +160,14 @@ public class hifidse{
 				//if a file
 				else {
 					String fullPath = file.getAbsolutePath(); //only process text-readable files
+					readFile(file, bwout, debug);
+					
+					//if statement doesn't work on all computers.
+					/*
 					if (Arrays.asList(txtExtensions).contains(fullPath.substring(fullPath.indexOf("."), fullPath.length()))){
 						readFile(file, bwout, debug);
 					}
+					*/
 				}
 			}
 		}
